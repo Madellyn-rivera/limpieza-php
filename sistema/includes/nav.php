@@ -81,7 +81,7 @@
 					<li class="principal">
 						<a href="#">Historial</a>
 						<ul>
-							<li><a href="#">Lista de Historial</a></li>
+							<li><a href="ordenanza_lista_historial.php">Lista de Historial</a></li>
 						</ul>
 					</li>
 				</ul>
